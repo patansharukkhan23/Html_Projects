@@ -1,0 +1,55 @@
+body{
+   font-variant-position: normal;
+    align-items: center;
+    text-align:center;
+    background-color:aliceblue;
+}
+
+   
+img{
+
+    border:1px solid black;
+    border-radius: 0%;
+    padding: 1px;
+ height: 20rem;
+    width: 20rem;
+
+}
+div{
+    text-align:left ;
+}
+h31{
+    text-align: center;
+}
+h3{
+    
+    text-align: right;
+    font-variant-position: normal;
+    font-size: 1rem; 
+    margin: 0%;
+}
+h22{
+    text-align: left;
+}
+p{
+    font-variant: normal;
+    gap: 0;
+}
+h2{
+    
+   text-align: center; 
+}
+div1{
+   
+    font-size: 20px;
+    background-color:red;
+    padding: 15px ;
+    color: white;
+    text-align:right;
+   
+}
+div2{
+    text-align:right;
+    padding-left: 2rem;
+}
+
